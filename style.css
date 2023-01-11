@@ -541,6 +541,11 @@ strong{
         text-transform: uppercase;
         letter-spacing: 0px;
     }
+    .content{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+}
     form{
         width: 100%;
         position: absolute;
