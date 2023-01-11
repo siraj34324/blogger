@@ -80,7 +80,7 @@ a{
     text-decoration: none;
 }
 .home{
-    background: url(/images/home-img.jpeg) no-repeat ;
+    background: url(./images/home-img.jpeg) no-repeat ;
     width: 100%;
     min-height: 100vh;
     background-position: center;
@@ -249,7 +249,7 @@ transition: opacity 0.5s ease;
 }
 
 .banner{
-    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(/images/banner.jpg) no-repeat;
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(./images/banner.jpg) no-repeat;
     background-position: right;
     background-size: cover;
     width: 100%;
